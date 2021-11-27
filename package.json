@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Ian Peek",
 	"description": "Free Code Camp backend api course",
+	"keywords": ["freecodecamp", "backend", "api"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
