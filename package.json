@@ -2,9 +2,13 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Ian Peek",
 	"description": "Free Code Camp backend api course",
-	"keywords": ["freecodecamp", "backend", "api"],
+	"keywords": [
+		"freecodecamp",
+		"backend",
+		"api"
+	],
 	"license": "MIT",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"dependencies": {
 		"express": "^4.14.0",
 		"moment": "2.14.0"
